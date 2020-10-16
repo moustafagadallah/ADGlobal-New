@@ -1,0 +1,182 @@
+{
+    "LOL":"ddd",
+    "ADD":"Add",
+    "NOTES":"Notes",
+    "SIGN_IN":"Sign in",
+    "SIGN_UP":"Sign up",
+    "FRIST_NAME":"F name",
+    "MIDDEL_NAME":"M Name",
+    "LAST_NAME":"L Name",
+    "ID":"Id",
+    "PHONE_NYMBER":"Phone number",
+    "EMAIL":"Email",
+    "REGION":"Region",
+    "ADDRESS":"Address",
+    "ABOUT_US":"About us",
+    "ABOUT_THE_COMPANY":"About The Company",
+    "CONTACT_US":"Contact Us",
+    "PHONE":"Phone",
+    "CALL":"Call",
+    "WEBSITE":"Website",
+    "USER_NAME":"User Name",
+    "PREVIOUS":"Privious",
+    "NEXT":"Next",
+    "FINISH":"Finish",
+    "GET_IN_TOUCH":"Get in touch",
+    "GET_IN_TOUCH_MESSAGE":"Please feel free to contact us if you have any questions or concerns",
+    "ENQUIRY":"Enquiry",
+    "COMPLAIN":"Complain",
+    "REQUEST":"Request",
+    "DETAILS":"Details",
+    "ATTACH_FILE":"Arrach File",
+    "SUBMITE":"Submite",
+    "MEDICAL_HISTORY":"Medical History",
+    "CHRONIC":"Cronic",
+    "HEALD":"Heals",
+    "SENSITIVE":"Sensitive",
+    "ONLINE_SHOPPING":"Online Shopping",
+    "SEARCH_SERVICES":"Search Services ..",
+    "GET_NOW":"Get Now",
+    "C_N_PATIENT":"Creay new patient",
+    "NATIONALITY":"Nationality",
+    "BRITHDAY":"Birthday",
+    "GENDER":"Gender",
+    "MALE":"Male",
+    "FEMAL":"Femal",
+    "PHONE_NUMBER":"Phone Number",
+    "COUNTRIES":"Countries",
+    "CITY":"City",
+    "DISTRICT":"District",
+    "ID_PC":"ID Pisture ",
+    "F_C_PC":"Family Card Picture",
+    "I_C_PC":"Insurance Card Picture",
+    "ADDRESS_DETAILS":"Address Details",
+    "PROFILE":"My Profile",
+    "ADD_PC":"Add Picture",
+    "P_NAME":"Patient Name",
+    "PROVIDED_DETAILS":"Provide Details",
+    "SERVICE_DETAILS":"Service Details",
+    "CHOOSE_PATIENT":"Choose Patient",
+    "PROVIDERS_NAME":"Provider Name",
+    "ADD_PATIENT":"Add Patient",
+    "EXPECTED_DATE":"Expected Date",
+    "PROVIDED_SERVICES":"Provided Services",
+    "S_NAME":"Service Name",
+    "S_DETAILS":"Service Details",
+    "S_PROVIDERS":"Service Providers",
+    "HOME_MESSAGE":"كيف نعتني بك",
+    "OFFERS":"Offers",
+    "O-NAME":"Offer",
+    "O_DATE":"Date",
+    "O_TYPE":"Type",
+    "PATIENT":"Patient",
+    "REQUESTE":"Request",
+    "R_CODE":"Request code",
+    "R_DATE":"Request Date",
+    "STATUS":"Request Status",
+    "UPLOAD":"upload",
+    "NEW":"New",
+    "RECEVIED":"Recevied",
+    "EXECUTING":"Executing",
+    "FINISHED":"Finished",
+    "PROVIDER_NAME":"Provider Name",
+    "REQUEST_DEYAILS":"Request Details",
+    "R_Visite":"Visite Date",
+    "TOTAL" : "Total",
+    "DESCOUNT":"Discount",
+    "NET":"NET",
+    "RATING":"Rating",
+    "Y_R_C":"Your review comment",
+    "V_S":"Vital Signs",
+    "WEIGHT":"Weight",
+    "B_PRESSURE" :"Blood pressure",
+    "HEIGHT":"Height",
+    "TEMPERATURE":"temperature",
+    "B_M_I":"body Mass Index",
+    "BLOOD_TYPE":"blood type",
+    "B_O_R":"blood oxygen rate",
+    "PULSE_RATE":"pulse Rate",
+    "V_s_n":"Vital Signs Notes",
+    "DIAGNOSES":"Diagnoses",
+    "MEDICINE_NAME":"Medicine Name",
+    "DOSAGE":"Dosage",
+    "DURATION":"Duration",
+    "EVERY":"Every",
+    "H_R":"Health Recommendations",
+    "NAME":"Name",
+    "MEDICAL_TEAM":"Medical Team",
+    "JOB":"job",
+    "CANCEL":"cancel",
+    "CHOOSE":"choose",
+    "SERVICE_TYPE":"Service Type",
+    "DISEASE_TYPE":"Disease Type",
+    "ADD_MEDICAL_H" : "Add Medical-H",
+    "DATE" : "date",
+    "relative relation":"Relative Relation",
+    "profileNAME":"Name" ,
+    "CHANGE_LANG":"Change Language",
+    "Online_Store":"Online Store",
+    "HELLO_MESSAGE":"how can we take care of you",
+    "HELLO":"Hello  ",
+    "VERIFI_MESSAGE":"Please Enter Verification code",
+    "Verify":"Verify",
+    "Log out":"Log out",
+    "SERVICE_EVALUATION":"service evaluation",
+    "Evaluation":"Evaluate",
+    "View Provides Services":"View Provides Services",
+    "chatTab":"chat",   
+    "homeTab":"home",  
+    "offersTab":"offers", 
+    "profileTab":"profile",
+    "requestTab":"request",
+    "save location":"save location",
+    "set location":"set location",
+    "Terms and Conditions":"Terms and Conditions",
+    "Min Price":"Min Price",
+    "Max Price":"Max Price",
+    "search by name":"search by name",
+    "Filter" :"Filter",
+    "price":"price",
+    "req_Canceled":"your request Canceled",
+    "req_Deferment": "your request Defermented",
+    "Chat with us" : "Chat with us",
+    "medicalReport":"medical Report",
+    "paymentTransfer":"payment Transfer"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

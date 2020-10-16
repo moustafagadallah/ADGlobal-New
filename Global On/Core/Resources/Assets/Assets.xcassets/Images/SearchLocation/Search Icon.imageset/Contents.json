@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "streamline-icon-search@140x140 1.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

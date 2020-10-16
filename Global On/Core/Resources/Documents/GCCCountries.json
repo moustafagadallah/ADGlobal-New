@@ -1,0 +1,32 @@
+[
+    {
+        "countryEN": "Bahrain",
+        "countryAR": "البحرين",
+        "countryCode": "+973",
+        "isoCode": "BHR"
+    },
+    {
+        "countryEN": "Kuwait",
+        "countryAR": "الكويت",
+        "countryCode": "+965",
+        "isoCode": "KWT"
+    },
+    {
+        "countryEN": "Oman",
+        "countryAR": "عُمان",
+        "countryCode": "+968",
+        "isoCode": "OMN"
+    },
+    {
+        "countryEN": "Qatar",
+        "countryAR": "قطر",
+        "countryCode": "+974",
+        "isoCode": "QAT"
+    },
+    {
+        "countryEN": "United Arab Emirates",
+        "countryAR": "الإمارات العربية المتحدة",
+        "countryCode": "+971",
+        "isoCode": "ARE"
+    }
+]
